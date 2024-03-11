@@ -23,6 +23,9 @@
     <img align="center" width="40" height="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"
       </a>
      <img align="center" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"
+       </a>
+    <a href="https://powerbi.microsoft.com/pt-br/">
+    <img align="center" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532"
 </div>
 
 &nbsp;

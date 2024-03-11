@@ -14,8 +14,8 @@
      <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   </a>
   &nbsp;
-  <a href="https://www.typescriptlang.org/">
-    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+  <a href="https://www.sqlservercentral.com/">
+    <img align="center" width="40" height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
   </a>
   <a href="https://nodejs.org/en/">
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 

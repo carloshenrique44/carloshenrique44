@@ -21,6 +21,8 @@
   </a>
   <a href="https://www.python.org/">
     <img align="center" width="40" height="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"
+      </a>
+     <img align="center" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"
 </div>
 
 &nbsp;

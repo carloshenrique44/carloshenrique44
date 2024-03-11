@@ -17,8 +17,7 @@
   <a href="https://www.sqlservercentral.com/">
     <img align="center" width="40" height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
   </a>
-  <a href="https://nodejs.org/en/">
-    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
+    <img align="center" width="40" height="40" src="https://www.svgrepo.com/show/303205/html-5-logo.svg"> 
   </a>
   <a href="https://www.python.org/">
     <img align="center" width="40" height="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"

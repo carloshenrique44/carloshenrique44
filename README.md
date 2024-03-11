@@ -21,7 +21,7 @@
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
   </a>
   <a href="https://www.python.org/">
-    <img align="center" width="40" height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.voitto.com.br%2Fblog%2Fartigo%2Fpython&psig=AOvVaw0FnVqPrQcYXJFjkLkAV1Qo&ust=1710279377806000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjq1KiV7YQDFQAAAAAdAAAAABAE"
+    <img align="center" width="40" height="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"
 </div>
 
 &nbsp;

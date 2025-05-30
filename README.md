@@ -30,7 +30,7 @@
 
 &nbsp;
 
-### :globe_with_meridians: Social:
+### :globe_with_meridians: Redes Sociais:
 
 <div>
   <a href="https://www.linkedin.com/in/carlos-henrique-700560232/" target="_blank">

@@ -26,6 +26,9 @@
        </a>
     <a href="https://powerbi.microsoft.com/pt-br/">
     <img align="center" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532"
+      <a href="https://docs.djangoproject.com/en/5.2/">
+      <img align="center" width="40" height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"
+      </a>
 </div>
 
 &nbsp;

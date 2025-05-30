@@ -29,6 +29,12 @@
       <a href="https://docs.djangoproject.com/en/5.2/">
       <img align="center" width="40" height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"
       </a>
+       <a href="https://flask.palletsprojects.com/en/stable/">
+      <img align="center" width="40" height="40" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"
+      </a>
+         <a href="https://fastapi.tiangolo.com">
+      <img align="center" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
+      </a>
 </div>
 
 &nbsp;

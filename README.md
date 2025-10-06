@@ -46,7 +46,7 @@
 ### ⚡ GitHub Stats (Neon Mode)
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=carlos-trindade&show_icons=true&theme=radical&bg_color=000000&title_color=00F0FF&text_color=FFFFFF&icon_color=00F0FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=carloshenrique44&show_icons=true&theme=radical&bg_color=000000&title_color=00F0FF&text_color=FFFFFF&icon_color=00F0FF" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-trindade&theme=radical&background=000000&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
 </p>
 

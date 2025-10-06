@@ -13,7 +13,7 @@
 
 > “Code is not just logic — it’s art, innovation, and rebellion.”
 
-- 🔭 Currently studying **Análise e Desenvolvimento de Sistemas**
+- 🔭 Currently studying about **Data Analytics**
 - 💡 Passionate about **AI, backend tech, and automation**
 - ⚽ Footballholic | 🎶 Music Lover | 🌍 Explorer
 - 🚀 Dreaming big: creating a **tech empire that changes the world**
